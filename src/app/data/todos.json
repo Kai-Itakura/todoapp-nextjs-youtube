@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "text": "散歩nothing",
+      "id": "1"
+    },
+    {
+      "text": "プログラミング",
+      "id": "2"
+    },
+    {
+      "text": "ジム",
+      "id": "3"
+    },
+    {
+      "text": "掃除",
+      "id": "4"
+    },
+    {
+      "text": "Hello Next.js13",
+      "id": "5"
+    },
+    {
+      "text": "Next.js",
+      "id": "74d1fdc1-e370-4a87-8733-cfabf6be6335"
+    },
+    {
+      "text": "TEST",
+      "id": "3e05a6eb-6649-4644-918f-d5ffe1e0a8ad"
+    }
+  ]
+}
